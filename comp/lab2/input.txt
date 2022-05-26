@@ -1,0 +1,9 @@
+reg
+reg_exp
+ant1_var
+1000
+5678
+usman
+hello
+/* hheeloo this {5599 && !@##} is commment */
+usman&&hassaan
